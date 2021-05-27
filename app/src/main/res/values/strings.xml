@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+
+    # numbers
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    # Symbols
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="Power">^</string>
+    <string name="sign">±</string>
+    <string name="equals_to">=</string>
+    <string name="clear">C</string>
+    <string name="decimal_point">.</string>
+    <string name="parentheses">( )</string>
+    <string name="backspace">Del</string>
+
+    # Text-View
+    <string name="display_hint">Enter a number</string>
+</resources>
